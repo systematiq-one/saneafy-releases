@@ -45,9 +45,3 @@ and keeps them up to date.
 
 [Open an issue](https://github.com/systematiq-one/saneafy-releases/issues) with what happened and
 your phone model.
-
-## Credits and license
-
-Saneafy is built on [Orpheon / Myspoti](https://github.com/kota-zo/myspoti) by kota-zo, and like
-it is free software under the GPL-3.0. Every release carries the complete source code of that
-version as `Saneafy-<version>-source.zip`.
